@@ -1,0 +1,128 @@
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\API_VIA_Code.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\API_VIA_Code.pdb
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\Antlr3.Runtime.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\EntityFramework.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\Microsoft.Data.Edm.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\Microsoft.Data.OData.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\Microsoft.Web.Infrastructure.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\Newtonsoft.Json.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Spatial.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.Helpers.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.Http.OData.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.Http.Tracing.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.Mvc.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.Optimization.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.Providers.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.Razor.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.WebPages.Deployment.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.WebPages.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.WebPages.Razor.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\WebGrease.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\EntityFramework.xml
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\Newtonsoft.Json.xml
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.Helpers.xml
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.Mvc.xml
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.Razor.xml
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.WebPages.xml
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.WebPages.Deployment.xml
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.WebPages.Razor.xml
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.Http.Tracing.xml
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Web.Http.OData.xml
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\Microsoft.Data.Edm.xml
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\Microsoft.Data.OData.xml
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\System.Spatial.xml
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\de\Microsoft.Data.OData.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\es\Microsoft.Data.OData.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\it\Microsoft.Data.OData.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\de\System.Spatial.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\es\System.Spatial.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\fr\System.Spatial.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\it\System.Spatial.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\ja\System.Spatial.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\ko\System.Spatial.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\ru\System.Spatial.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\zh-Hans\System.Spatial.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\bin\zh-Hant\System.Spatial.resources.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\obj\Debug\API_VIA_Code.csprojResolveAssemblyReference.cache
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\obj\Debug\API_VIA_Code.dll
+D:\Dokumenty\Visual Studio 2012\Projects\API_VIA_Code\API_VIA_Code\obj\Debug\API_VIA_Code.pdb
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\API_VIA_Code.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\API_VIA_Code.pdb
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\Antlr3.Runtime.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\EntityFramework.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\Microsoft.Data.Edm.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\Microsoft.Data.OData.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\Newtonsoft.Json.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Spatial.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.Helpers.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.Http.OData.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.Http.Tracing.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.Mvc.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.Optimization.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.Providers.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.Razor.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.WebPages.Deployment.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.WebPages.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.WebPages.Razor.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\WebGrease.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\EntityFramework.xml
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\Newtonsoft.Json.xml
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.Helpers.xml
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.Mvc.xml
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.Razor.xml
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.WebPages.xml
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.WebPages.Deployment.xml
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.WebPages.Razor.xml
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.Http.Tracing.xml
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Web.Http.OData.xml
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\Microsoft.Data.Edm.xml
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\Microsoft.Data.OData.xml
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\System.Spatial.xml
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\de\Microsoft.Data.Edm.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\es\Microsoft.Data.Edm.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\it\Microsoft.Data.Edm.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\de\Microsoft.Data.OData.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\es\Microsoft.Data.OData.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\fr\Microsoft.Data.OData.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\it\Microsoft.Data.OData.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\ja\Microsoft.Data.OData.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\ko\Microsoft.Data.OData.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\ru\Microsoft.Data.OData.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\de\System.Spatial.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\es\System.Spatial.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\fr\System.Spatial.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\it\System.Spatial.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\ja\System.Spatial.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\ko\System.Spatial.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\ru\System.Spatial.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\zh-Hans\System.Spatial.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\bin\zh-Hant\System.Spatial.resources.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\obj\Debug\API_VIA_Code.csprojResolveAssemblyReference.cache
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\obj\Debug\API_VIA_Code.dll
+D:\GitHubRepos\VIA_API\API_VIA_Code\API_VIA_Code\obj\Debug\API_VIA_Code.pdb
