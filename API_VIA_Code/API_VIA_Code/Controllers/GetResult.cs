@@ -44,66 +44,68 @@ namespace API_VIA_Code.Controllers
 
             }
 
-            return sb.ToString();
+            return sb.ToString().ToLower();
 
         }
 
         internal string getGitEmail(string id)
         {
-            using (var client = new WebClient())
-            {
 
-                client.Headers["User-Agent"] = "MyApp";
+            object o = GetResponse(string.Format("https://api.github.com/users/{0}", id));
 
-                var response = client.DownloadString(string.Format("https://api.github.com/users/{0}", id));
+            return o.ToString();
 
-                dynamic res = JsonConvert.DeserializeObject(response);
-
-                return res.email;
-            }
         }
 
         internal IEnumerable<string> getRepos(string id)
         {
             var listOfRepos = new List<string>();
-            using (var client = new WebClient())
+
+            foreach (var user in GetResponse(string.Format("https://api.github.com/users/{0}/repos", id)))
             {
-
-                client.Headers["User-Agent"] = "MyApp";
-
-                var response = client.DownloadString(string.Format("https://api.github.com/users/{0}/repos", id));
-
-                dynamic res = JsonConvert.DeserializeObject(response);
-                foreach (var user in res)
-                {
-                    listOfRepos.Add((string)user.name);
-                }
-
+                listOfRepos.Add((string)user.name);
             }
+
+
             return listOfRepos;
         }
 
         internal IEnumerable<string> getGravatarImages(string email)
         {
             var listOfImages = new List<string>();
-            using (var client = new WebClient())
+
+            foreach (var entry in GetResponse(string.Format("https://www.gravatar.com/{0}.json", email)).entry)
             {
-
-                client.Headers["User-Agent"] = "MyApp";
-
-                var response = client.DownloadString(string.Format("https://www.gravatar.com/{0}.json", email));
-
-                dynamic res = JsonConvert.DeserializeObject(response);
-
-                foreach (var entry in res.entry)
+                foreach (var photo in entry.photos)
                 {
-                    foreach (var photo in entry.photos)
-                    {
-                        listOfImages.Add((string)photo.value);
-                    }
+                    listOfImages.Add((string)photo.value);
                 }
+
             }
             return listOfImages;
+        }
+
+        internal IEnumerable<string> getGravatarImagesUsername(string userName)
+        {
+            string hashMail = (string)GetResponse(string.Format("https://www.gravatar.com/{0}.json", userName)).entry[0].hash;
+            return getGravatarImages(hashMail);
+        }
+
+        private dynamic GetResponse(string command)
+        {
+            try
+            {
+                using (var client = new WebClient())
+                {
+                    client.Headers["User-Agent"] = "MyApp";
+                    var response = client.DownloadString(command);
+                    return JsonConvert.DeserializeObject(response);
+                }
+            }
+            catch (Exception e)
+            {
+                return e.Message;
+            }
         }
     }
 }

@@ -20,10 +20,18 @@ namespace API_VIA_Code.Controllers
         public GetResult Get(string id)
         {
             var result = new GetResult();
+            result.UserName = id;
             result.Email = result.getGitEmail(id);
-            result.EmailHash = result.CalculateMD5Hash(result.Email);
+            if (result.Email != null)
+            {
+                result.EmailHash = result.CalculateMD5Hash(result.Email.ToLower());
+                result.Photos = result.getGravatarImages(result.EmailHash);
+            }
             result.Repos = result.getRepos(id);
-            result.Photos = result.getGravatarImages(result.EmailHash);
+            if (result.Photos == null)
+                result.Photos = result.getGravatarImagesUsername(result.UserName);
+            else
+                result.Photos.Concat(result.getGravatarImagesUsername(result.UserName));
 
             return result;
         }
