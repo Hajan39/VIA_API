@@ -51,9 +51,10 @@ namespace API_VIA_Code.Controllers
         internal string getGitEmail(string id)
         {
 
-            object o = GetResponse(string.Format("https://api.github.com/users/{0}", id));
-
-            return o.ToString();
+            dynamic o = GetResponse(string.Format("https://api.github.com/users/{0}", id));
+            if (o == null)
+                return null;
+            return o.email;
 
         }
 
@@ -61,11 +62,12 @@ namespace API_VIA_Code.Controllers
         {
             var listOfRepos = new List<string>();
 
-            foreach (var user in GetResponse(string.Format("https://api.github.com/users/{0}/repos", id)))
-            {
-                listOfRepos.Add((string)user.name);
-            }
-
+            dynamic result = GetResponse(string.Format("https://api.github.com/users/{0}/repos", id));
+            if (result != null)
+                foreach (var user in result)
+                {
+                    listOfRepos.Add((string)user.name);
+                }
 
             return listOfRepos;
         }
@@ -74,21 +76,29 @@ namespace API_VIA_Code.Controllers
         {
             var listOfImages = new List<string>();
 
-            foreach (var entry in GetResponse(string.Format("https://www.gravatar.com/{0}.json", email)).entry)
-            {
-                foreach (var photo in entry.photos)
+            dynamic resp = GetResponse(string.Format("https://www.gravatar.com/{0}.json", email));
+            if (resp != null)
+                foreach (var entry in resp.entry)
                 {
-                    listOfImages.Add((string)photo.value);
-                }
+                    foreach (var photo in entry.photos)
+                    {
+                        listOfImages.Add((string)photo.value);
+                    }
 
-            }
+                }
             return listOfImages;
         }
 
         internal IEnumerable<string> getGravatarImagesUsername(string userName)
         {
-            string hashMail = (string)GetResponse(string.Format("https://www.gravatar.com/{0}.json", userName)).entry[0].hash;
-            return getGravatarImages(hashMail);
+            List<string> images = new List<string>();
+            dynamic resp = GetResponse(string.Format("https://www.gravatar.com/{0}.json", userName));
+            if (resp != null)
+                foreach (var item in resp.entry)
+                {
+                    images.AddRange(getGravatarImages((string)item.hash).ToArray());
+                }
+            return images;
         }
 
         private dynamic GetResponse(string command)
@@ -104,7 +114,7 @@ namespace API_VIA_Code.Controllers
             }
             catch (Exception e)
             {
-                return e.Message;
+                return null;
             }
         }
     }
