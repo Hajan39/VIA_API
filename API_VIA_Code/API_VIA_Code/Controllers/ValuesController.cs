@@ -11,15 +11,21 @@ namespace API_VIA_Code.Controllers
     {
 
         // GET api/values
-        public IEnumerable<string> Get()
+        public string Get()
         {
-            return new string[] { "value1", "value2" };
+            return "Za lomeno vložit uživatelské jméno z GitHubu.";
         }
 
         // GET api/values/5
-        public string Get(string id)
+        public GetResult Get(string id)
         {
-            return "value";
+            var result = new GetResult();
+            result.Email = result.getGitEmail(id);
+            result.EmailHash = result.CalculateMD5Hash(result.Email);
+            result.Repos = result.getRepos(id);
+            result.Photos = result.getGravatarImages(result.EmailHash);
+
+            return result;
         }
 
         // POST api/values
